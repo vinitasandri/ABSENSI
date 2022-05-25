@@ -16,7 +16,7 @@
                       <div class="card-body">
                           <h4 class="card-title"><?= $breadcumb ?> </h4>
                           <button onClick="addDataJabatan('<?= base_url() ?>')" data-toggle="modal" data-target="#modal_form" style="float: right;margin-top:-50px;" type="button" class="btn btn-outline-primary btn-icon-text">
-                              <i class="mdi mdi-database-plus btn-icon-prepend"></i> Tambah Data </button>
+                              <i class="mdi mdi-database-plus btn-icon-prepend"></i> Tambah Data Jabatan</button>
                           <div class="table-responsive">
                               <table class="table table-bordered table-striped  dataTable js-exportable mt-3">
                                   <thead>
